@@ -1,2 +1,2 @@
 # spojCodes
-Codes from spoj contest site
+Codes from [spoj](http://www.spoj.com/) contest site
